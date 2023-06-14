@@ -46,7 +46,7 @@ We would like to express our heartfelt appreciation to our incredible volunteers
 We also extend our gratitude to all the participants who enthusiastically participated in the ThinkAI Hackathon. Your enthusiasm, passion, and commitment to innovation were truly inspiring, and we are thrilled to have witnessed the amazing projects you developed during this event.
 
 ## Contact Information
-For any inquiries or further information about the ThinkAI Hackathon, please visit our dedicated website thinkai.ma or reach out to us via email at ia.mathmaroc@gmail.com.
+For any inquiries or further information about the ThinkAI Hackathon, please visit our dedicated website https://thinkai.ma/ or reach out to us via email at ia.mathmaroc@gmail.com.
 
 Thank you for your interest in the ThinkAI Hackathon!
 
