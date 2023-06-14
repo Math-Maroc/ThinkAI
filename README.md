@@ -13,6 +13,19 @@ As a testament to their hard work and achievements, many trophies were awarded a
 
 
 For more information, feel free to check our dedicated website: https://thinkai.ma/
+
+## Challenges
+
+### NLP Challenge
+The goal of this challenge is to train a language model useful to Moroccans. It can be as generic as pretraining a model on a large Moroccan corpus or as specific as fine-tuning a model on a downstream task such as text summarization, translation, question-answering…
+
+### Diffusion Challenge
+The goal of this challenge is to personalize a text-to-image diffusion model on Moroccan concepts or style, that can be used for fashion, architecture or any other creative field. The model should be capable of producing personalized and culturally relevant images based on input text.
+
+### AI Product Challenge
+The goal of this challenge is to develop a product that solves a real-world problem faced by Moroccans. Participants will be required to ideate, design, and develop a working prototype of their product using AI technologies - without any need to train the model. The product can be in any industry, including healthcare, education, finance, and agriculture.
+
+
 ## Sponsors
 We would like to express our sincere gratitude to our sponsors whose generous support made this event possible:
 
