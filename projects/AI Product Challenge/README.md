@@ -10,34 +10,42 @@ Source code and documentation are provided in original GitHub repositories of th
 Members: Ayoub El Kasmi, Marouane Amadour, Soufiane Ait Elaouad \
 GitHub Repo: https://github.com/eniafou/Mustashari \
 Idea: Mustashari is an app that enables Moroccans to access cheap legal consulting.
+![](../../images/image4.png)
+![](../../images/image10.png)
 
 ### [Honorable Mention] Tiit by l3iyanin
 Members: Abdelali Ait Hmid, Youness Arroubi, Imran Baali \
 Github Repo: https://github.com/L3iyanin/tiit \
 Idea: Whatsapp moderator bot that detects and deletes messages with offensive content. \
 Demo: https://tiit.ecomvite.com/
+![](../../images/image5.png)
 
 ### Moroccam by ENSET Boomers
 Members: El Bachir OUTIDRARINE, Brahim ELHOUBE, Youssef BEN SEDIK \
 GitHub Repo: https://github.com/ElhoubeBrahim/Moroccam \
 Idea: Experience Morocco like a local with Moroccam, the ultimate travel companion app for capturing the essence of Morocco through its language and culture.
+![](../../images/image17.png)
 
 ### SafeDriver by ENSAB
 Members: Zakaria EZ-ZAHAR, Louja Ayoub, Laghzaoui Brahim \
 GitHub Repo: https://github.com/loujaayoub/SafeDiver-AI_Product \
 Idea: SafeDriver can assess the damage of your vehicle and estimate the repair/insurance costs
+![](../../images/image18.gif)
 
 ### Elderly+ by Scytale
 Members: Salma ELbekraoui, Yasmine Aourabi \
 GitHub Repo: https://github.com/salma-bek/elderly-plus \
 Idea: Elderly+ presents a range of services for patients, including the ability to access their medical calendar, review their medical records, and book appointments with their doctor.
+![](../../images/image1.png)
 
 ### KOZINTAI by Elite
 Members : Salah Eddine Boutayeb, Imane BERAICH, Mohamed LAHARRAF \
 GitHub Repo: https://github.com/Salah-boutayeb/KOZINTAI \
 Idea: Transform your kitchen ingredients into delicious meals with our app, powered by natural language processing technology.
+![](../../images/image7.png)
 
 ### DariGPT by Outliers
 Members: Yassine LAKHDACHI, Anas DORBANI, Mountasser LABCHIRI \
 GitHub Repo: https://github.com/outliers-thinkai/think-ai-hackathon/ \
 Idea: DariGPT offers a variety of AI products in Darija.
+![](../../images/image8.png)
