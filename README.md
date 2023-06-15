@@ -12,7 +12,7 @@ As a testament to their hard work and achievements, many trophies were awarded a
 ![Projects in the making](./images/event.jpg)
 
 
-For more information, feel free to check our dedicated website: https://thinkai.ma/
+For more information, feel free to check our dedicated website: https://thinkai.ma/ and our Notion link: https://shorturl.at/iBI69
 
 ## Challenges
 
