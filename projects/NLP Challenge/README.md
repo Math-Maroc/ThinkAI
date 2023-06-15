@@ -10,6 +10,7 @@ Source code and documentation are provided in original GitHub repositories of th
 Members: Nijadi Mohamed, Ech-chaoui Issam, Ech-chammakhy Yasir \
 GitHub Repo: https://github.com/gurennnn/moroccan-ads-generator/ \
 Idea: Fine tuning NLP models in order to generate ads in the Moroccan context
+![](../../images/image22.png)
 
 ### Derej M3aya by SOLVERS
 Members: Fatima BAALI, Oumaima HAMMI, Salma EL BARBORI \
@@ -20,11 +21,13 @@ Idea: Derej m3aya is an innovative language translation project that aims to bri
 Members: Badr Eddine Jalili, Mohamed Tati, Hamza MOTASSIM \
 GitHub Repo: https://github.com/tati2002med/Darija-Sentiment-Analysis \
 Idea: Darija Sentiment Analysis is a project focused on performing sentiment analysis on tweets written in Moroccan Darija, the colloquial Arabic dialect spoken in Morocco. The project utilizes the powerful BERT base model (uncased) as its foundation and fine-tunes it specifically for analyzing sentiments expressed in Darija tweets.
+![](../../images/image14.png)
 
 ### Whisper-moroccan-dialect by DreamTime
 Members: Manal Lahya, Hiba arif, Lamyaa Hattab \
 GitHub Repo: https://github.com/manalastro/Whisper-moroccan-dialect/tree/main \
 Idea: Whisper-moroccan-dialect is an innovative project that focuses on utilizing the Whisper language model, specifically fine-tuned on a Moroccan dataset of speeches, to generate Arabic text. The generated text is then used as input for a motor engine, with the aim of assisting illiterate individuals in conducting their research easily.
+![](../../images/image13.png)
 
 ### Guinness by The Hyperomas
 Members: TOUIYATE Adnane, LAYACHI Mohamed Amine, BINAN Omaima \
@@ -35,8 +38,4 @@ Idea: Guinness is a language model that can simulate writing to different textua
 Members : Jakouk Hamza, Moussaoui Othman, Oussama Fikri \
 GitHub Repo: https://github.com/OthmanMoussaoui/hackaton-thinkai-gangsix \
 Idea: Audio Word Detection in Darija is an innovative project focused on converting audio files in Moroccan Darija, into written text. The project leverages advanced speech recognition and natural language processing techniques to accurately transcribe spoken Darija into a readable format.
-
-### Smart Moroccan Dressing Room by 2hr
-Members: Houda El Koraini, Hanae Hanim, Rabab Fahssi \
-GitHub Repo: https://github.com/RababFhsy/Diffusion-Challenge \
-Idea: A text-to-image model for Moroccan dress products used for fashion, specifically the Djellaba.
+![](../../images/image23.png)

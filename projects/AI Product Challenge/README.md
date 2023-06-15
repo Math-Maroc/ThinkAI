@@ -49,3 +49,4 @@ Members: Yassine LAKHDACHI, Anas DORBANI, Mountasser LABCHIRI \
 GitHub Repo: https://github.com/outliers-thinkai/think-ai-hackathon/ \
 Idea: DariGPT offers a variety of AI products in Darija.
 ![](../../images/image8.png)
+![](../../images/image20.png)
