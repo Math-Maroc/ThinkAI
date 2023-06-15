@@ -1,6 +1,6 @@
-# AI Product Challenge
+# Diffusion Challenge
 
-The goal of this challenge is to develop a product that solves a real-world problem faced by Moroccans. Participants will be required to ideate, design, and develop a working prototype of their product using AI technologies - without any need to train the model. The product can be in any industry, including healthcare, education, finance, and agriculture.
+The goal of this challenge is to personalize a text-to-image diffusion model on moroccan concepts or style, that can be used for fashion, architecture or any other creative field. The model should be capable of producing personalized and culturally relevant images based on input text.
 
 Source code and documentation are provided in original GitHub repositories of the participants. 
 
