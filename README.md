@@ -7,7 +7,7 @@ Welcome to the official repository for the ThinkAI Hackathon organized by Math&M
 ThinkAI is a premier AI Hackathon that took place from May 5th to May 7th at 1337 Coding School in Morocco. The event brought together students from various Moroccan schools to demonstrate their creativity and expertise in the field of Artificial Intelligence. It provided a platform for participants to solve real-world problems using AI technologies and explore the potential of AI in different domains.
 
 Throughout the hackathon, participants formed teams and worked on projects related to Natural Language Processing (NLP), Generative AI, and AI product development. The event spanned three days of intense competition, innovation, and collaboration among bright Moroccan minds.
-As a testament to their hard work and achievements, many trophies were awarded and a prize of 600euros was given to each winning team in each challenge category. 
+As a testament to their hard work and achievements, many trophies were awarded and a prize of 6000DH (approximately 600euros) was given to each winning team in each challenge category. 
 
 ![Projects in the making](./images/event.jpg)
 
