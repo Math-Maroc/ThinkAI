@@ -12,7 +12,11 @@ As a testament to their hard work and achievements, many trophies were awarded a
 ![Projects in the making](./images/event.jpg)
 
 
-For more information, feel free to check our dedicated website: https://thinkai.ma/ and our Notion link: https://shorturl.at/iBI69
+For more information, feel free to check:
+- Website: https://thinkai.ma/
+- Notion link: https://shorturl.at/iBI69
+- Projects Summary Tweet Thread: https://twitter.com/MathsMaroc/status/1657805724766830594
+- Hackathon Highlights Video: https://twitter.com/1337FIL/status/1658157238370938888
 
 ## Challenges
 
