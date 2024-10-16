@@ -1,5 +1,5 @@
 
-# ThinkAI
+# ThinkAI 2023
 
 Welcome to the official repository for the ThinkAI Hackathon organized by Math&Maroc and 1337AI! This repository is dedicated to showcasing the works of the talented participants who took part in this exciting event.
 
